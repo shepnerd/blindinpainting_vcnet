@@ -6,7 +6,7 @@ This repository gives the implementation of our method in ECCV 2020 paper, '[VCN
 
 <img src="./media/teaser-v3.png" width="100%" alt="learned semantic layouts">
 
-Blind inpainting is a task to automatically complete visual contents without specifying masks for missing areas in an image. Previous work assumes known missing-region-pattern, limiting the application scope. We instead relax the assumption by defining a new blind inpainting setting, making training a neural system robust against various unknown missing region patterns.
+Blind inpainting is a task to automatically complete visual contents without specifying masks for missing areas in an image. Previous work assumes *known missing-region-pattern*, limiting the application scope. We instead *relax the assumption* by defining a new blind inpainting setting, making training a neural system robust against *various unknown missing region patterns*.
 
 ## Citation
 
