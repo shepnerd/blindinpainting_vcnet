@@ -1,0 +1,8 @@
+*.yml
+*.xml
+*.yaml
+*.iml
+*.data*
+*.meta
+*.index
+*.pyc
