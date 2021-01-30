@@ -16,6 +16,11 @@ Blind inpainting is a task to automatically complete visual contents without spe
 - scipy
 - easydict
 
+## For tensorflow implementations
+### Pretrained models
+[FFHQ-HQ_p256](https://pan.baidu.com/s/1wfaR1pzngKeNhxyrZlvJYw) trained with stroke masks. (Password: ted9)
+[CelebA-HQ_p256](https://pan.baidu.com/s/1EL0qCzcASD4Qgf8bEFpf4A) trained with stroke masks. (Password: 7dzs)
+
 ## Acknowledgments
 Our code benefits a lot from [pix2pixHD](https://github.com/NVIDIA/pix2pixHD) and [Generative Image Inpainting with Contextual Attention](https://github.com/JiahuiYu/generative_inpainting).
 
