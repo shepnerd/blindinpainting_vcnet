@@ -19,6 +19,7 @@ Blind inpainting is a task to automatically complete visual contents without spe
 ## For tensorflow implementations
 ### Pretrained models
 [FFHQ-HQ_p256](https://pan.baidu.com/s/1wfaR1pzngKeNhxyrZlvJYw) trained with stroke masks. (Password: ted9)
+
 [CelebA-HQ_p256](https://pan.baidu.com/s/1EL0qCzcASD4Qgf8bEFpf4A) trained with stroke masks. (Password: 7dzs)
 
 ## Acknowledgments
