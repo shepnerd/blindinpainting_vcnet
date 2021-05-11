@@ -1,8 +1,8 @@
-# [VCNet: a robust approach to blind image inpainting](https://arxiv.org/pdf/2003.06816.pdf)
-by [Yi Wang](https://shepnerd.github.io/), [Ying-Cong Chen](https://yingcong.github.io/), [Xin Tao](), and [Jiaya Jia](http://jiaya.me/). **The pretrained models, and training & testing specifications will be updated**.
+# [VCNet: a robust approach to blind image inpainting](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700749.pdf)
+by [Yi Wang](https://shepnerd.github.io/), [Ying-Cong Chen](https://yingcong.github.io/), [Xin Tao](http://www.xtao.website/), and [Jiaya Jia](http://jiaya.me/). **The training & testing specifications will be updated**.
 
 ## Introduction
-This repository gives the implementation of our method in ECCV 2020 paper, '[VCNet: a robust approach to blind image inpainting](https://arxiv.org/pdf/2003.06816.pdf)'. It studies how to repair images with unknown contaminations automatically.
+This repository gives the implementation of our method in ECCV 2020 paper, '[VCNet: a robust approach to blind image inpainting](https://arxiv.org/pdf/2003.06816.pdf)' \([supplementary file](https://drive.google.com/file/d/1LpMfWCi_W9oDyMJB45pQw4wOQm5-rpBp/view?usp=sharing)). It studies how to repair images with unknown contaminations automatically.
 
 <img src="./media/teaser-v3.png" width="100%" alt="learned semantic layouts">
 
